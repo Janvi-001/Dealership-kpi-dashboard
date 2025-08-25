@@ -1,0 +1,12 @@
+argparse
+matplotlib==3.10.5
+numpy==2.3.2
+os
+pandas==2.3.2
+pathlib
+re
+scikit-learn==1.7.1
+statsmodels==0.14.5
+streamlit==1.48.1
+subprocess
+warnings
